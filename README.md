@@ -18,10 +18,3 @@
 | --- | --- |
 | [Skaro](https://github.com/skarodev/skaro) | Open source workspace для разработки от спецификаций с применением ИИ. Помогает работать с архитектурными решениями, планами реализации, задачами, Git и контекстом проекта в едином инженерном процессе. |
 | [MarkMello](https://github.com/dartdavros/MarkMello) | Приложение для быстрого открытия и чтения Markdown-файлов с дополнительным режимом редактирования. |
-
-## Контакты
-
-- Сайт: [ermolaev.tech](https://ermolaev.tech)
-- Telegram: [@g2a_2](https://t.me/g2a_2)
-- Email: [andrey@edevs.tech](mailto:andrey@edevs.tech)
-- Хабр: [@yermolaev](https://habr.com/ru/users/yermolaev/)
